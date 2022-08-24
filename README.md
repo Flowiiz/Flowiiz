@@ -3,8 +3,9 @@ Hi 👋
 I'm a C# programmer.
 
 
-🔭 I’m currently working on: Crack Client
 
-📫 Discord: Flowiiz#0793
+- 🔭 I’m currently working on: Crack Client
 
-⚡ Fun fact: I like Minecraft.
+- 📫 Discord: Flowiiz#0793
+
+- ⚡ Fun fact: I like Minecraft.
