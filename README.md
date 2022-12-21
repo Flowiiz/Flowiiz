@@ -1,10 +1,10 @@
 Hi 👋
 
-I'm a C# programmer.
+I'm a C#, Python programmer.
 
 
 
-- 🔭 I’m currently working on: Crack Client
-- 📫 Discord: Flowiiz#0793
+- 🔭 I’m currently working on: .gg/acloud
+- 📫 Discord: Flowiiz#0001
 - ⚡ Fun fact: I like Minecraft.
 
